@@ -1,0 +1,6 @@
+# Ignores de compilação do .NET / C#
+bin/
+obj/
+.vs/
+.vscode/
+*.user
