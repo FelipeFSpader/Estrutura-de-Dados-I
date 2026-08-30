@@ -1,4 +1,4 @@
-# Estrutura de Dados I — C# (.NET)
+# Estrutura de Dados I 
 
 Repositório destinado ao armazenamento e organização das soluções de atividades e exercícios da disciplina de **Estrutura de Dados I** do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
