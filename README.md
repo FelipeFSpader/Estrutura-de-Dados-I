@@ -18,13 +18,7 @@ Gemini me orientou a criar o repositório desse jeito.
 ## Tecnologias Utilizadas
 
 - **Linguagem:** C#
-- **Plataforma:** .NET 8 / SDK .NET
+- **Plataforma:** .NET 10 / SDK .NET
 - **IDE / Editor:** Visual Studio Code
 
 ---
-
-## Como executar os projetos
-
-1. Acesse a pasta do exercício desejado via terminal:
-   ```bash
-   cd "Exercicios/Aula 3 - 20 questões/e10n2 - calculadora"
