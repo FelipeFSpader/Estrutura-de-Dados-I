@@ -6,10 +6,14 @@ A ideia é organizar minhas soluções de forma fácil, e tentar aprender um poq
 
 ---
 
+## Conteúdos Abordados
+- O que se espera do básico de Estrutura de dados.
+- Até agora, vetores e listas.
+
+---
+
 ## Tecnologias Utilizadas
-
-- **Linguagem:** C#
-- **Plataforma:** .NET 10 / SDK .NET
-- **IDE / Editor:** Visual Studio Code
-
+- Linguagem: C# 
+- IDE: Rider e às vezes Visual Studio Code
+  
 ---
