@@ -26,6 +26,8 @@ public class ListaSimples
                 atual.Proximo = novo; //apontar para o número de referencia 
 
                 return true;
+                //depois daqui para 
+                // Não roda mais esse método depois do TRUE
 
             }
             atual = atual.Proximo;
