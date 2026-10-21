@@ -5,8 +5,7 @@ public class ListaSimples
 {
 
     No Inicio { get; set; }
-
-
+    
     public void Inverter()
     {
     No anterior = null;

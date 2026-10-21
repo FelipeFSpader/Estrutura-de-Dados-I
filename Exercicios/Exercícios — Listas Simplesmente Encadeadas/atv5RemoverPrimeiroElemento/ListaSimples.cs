@@ -13,7 +13,6 @@ public class ListaSimples
         {
             Inicio = Inicio.Proximo;
             return true;
-                
         } 
         else 
         {

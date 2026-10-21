@@ -38,7 +38,6 @@ public class ListaSimples
         Console.Write($"{atual.Valor} ");
         atual = atual.Proximo;
     }
-        
         Console.WriteLine(); 
     }
 }

@@ -5,6 +5,18 @@ public class ListaSimples
 
     No Inicio { get; set; }
 
+
+    public void Exibir()            
+    {
+        while (Inicio != null)
+        {
+            Console.Write($"{Inicio.Valor} ");
+            Inicio = Inicio.Proximo;
+        }
+        
+        Console.WriteLine(); 
+    }
+
     public void InserirNoInicio(int valor)
     {
         No n = new();
@@ -12,16 +24,5 @@ public class ListaSimples
 
             n.Proximo = Inicio;
             Inicio = n;
-    }
-
-    public void Exibir()            
-    {
-    while (Inicio != null)
-    {
-        Console.Write($"{Inicio.Valor} ");
-        Inicio = Inicio.Proximo;
-    }
-        
-        Console.WriteLine(); 
     }
 }    
