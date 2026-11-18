@@ -1,8 +1,7 @@
-﻿namespace atv6_Fila_de_impressão;
+﻿namespace atv9_RoundRobin;
 
-public class FilaImpressao
+public class Fila
 {
-
     private No? _inicio { get; set; }
     private No? _fim { get; set; }
     public int Quantidade { get; private set; }
@@ -57,4 +56,4 @@ public class FilaImpressao
             return false;
         }
     }
-} 
+}
