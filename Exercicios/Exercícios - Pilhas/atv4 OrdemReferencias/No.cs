@@ -1,0 +1,7 @@
+﻿namespace atv4_OrdemReferencias;
+
+public class No
+{
+    public int Valor { get; set; }
+    public No? Proximo { get; set; }
+}
