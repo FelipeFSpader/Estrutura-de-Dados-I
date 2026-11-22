@@ -8,12 +8,12 @@ A ideia é organizar minhas soluções de forma fácil, e tentar aprender um poq
 
 ## Conteúdos Abordados
 - O que se espera do básico de Estrutura de dados.
-- Até agora, vetores e listas.
+- Vetores, listas, filas, pilhas e árvores binárias.
 
 ---
 
 ## Tecnologias Utilizadas
 - Linguagem: C# 
-- IDE: Rider e às vezes Visual Studio Code
+- IDE: Visual Studio e às vezes Visual Studio Code
   
 ---
